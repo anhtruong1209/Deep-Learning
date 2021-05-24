@@ -1,9 +1,0 @@
-1  tien xu li, hau xu li , in out cua mang
-2  Tao dataset
-3  Tao Dataloader
-4  Xay dung network
-5  Dinh nghia forward() trong network
-6  Dinh nghia ham loss
-7  Thiet lap thuat toan toi uu 
-8  Thuc hien vc hoc va kiem thu network
-9  du doan vs dataset 
